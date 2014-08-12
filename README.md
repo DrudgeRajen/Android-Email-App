@@ -1,4 +1,4 @@
 Android-Email-App
 ==================
 
-Simple Android Email Feedback ApP
+Simple Android Email Feedback App
